@@ -13,6 +13,3 @@ ESX Ambulance Job is an plugin for ESX with features:
 
 * Player management (boss actions)
    - [esx_society](https://github.com/ESX-Org/esx_society)
-
-## Download & Installation
-
